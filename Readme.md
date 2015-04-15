@@ -1,3 +1,4 @@
-## Yo, I'm a Readme
+## Swamp Rabbit Bike Shop
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+A landing page for a local bike shop. 
+
